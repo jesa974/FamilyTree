@@ -1,0 +1,9 @@
+8;nom_M;prenom_M;date_N_M;lieu_N_M;nG;nom_F;prenom_F;date_N_F;lieu_N_F;date_M;lieu_M
+1;Martin;Julien;07/11/1900;Toulon;1;Dupont;Lucie;16/03/1902;Toulon;10/02/1927;Toulon
+2;Martin;Julien;28/10/1870;Toulon;2;Benoit;Catherine;09/08/1875;Toulon;26/02/1898;Toulon
+2;Dupont;Jean;01/02/1865;Toulon;2;Martin;Marie;18/05/1867;Toulon;31/03/1888;Toulon
+3;Benoit;Pierre;;;3;Palerme;Marie;;;;Toulon
+3;Dupont;Albert;19/12/1828;Toulon;3;Durand;Jeanne;09/11/1830;Toulon;28/04/1863;Toulon
+3;Martin;Laurent;25/03/1835;Toulon;3;Beaulieu;Mathilde;12/12/1832;Marseille;01/02/1863;Marseille
+4;Beaulieu;Cesar;;;4;Arnaud;Mathilde;;;;
+4;Martin;Jules;;;4;Cellier;Jeanne;;;;
