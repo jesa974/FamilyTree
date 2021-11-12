@@ -2,7 +2,8 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/jesa974/FamilyTree?color=green&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/jesa974/FamilyTree?color=orange&label=C&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/FamilyTree?label=project%20size&style=flat-square&color=lightgrey)
+![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/FamilyTree?label=Project%20size&style=flat-square&color=lightgrey)
+[![Visits Badge](https://badges.pufler.dev/visits/jesa974/FamilyTree)](https://badges.pufler.dev?style=for-the-badge)
 
 
 FamilyTree is a program that retrieves information via a csv and makes the links thanks to an AI in order to create a beautiful 3D family tree on which you can navigate.
